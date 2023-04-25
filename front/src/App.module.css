@@ -1,0 +1,9 @@
+.wrap{
+  background-color:biege;
+}
+
+.wrap > div{
+  border-bottom:1px solid #aaa;
+  padding:40px 0;
+  margin-bottom:20px;
+}
